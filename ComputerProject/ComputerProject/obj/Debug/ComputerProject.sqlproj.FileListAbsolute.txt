@@ -1,0 +1,6 @@
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\bin\Debug\ComputerProject.dacpac
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\bin\Debug\ComputerProject.dll
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\bin\Debug\ComputerProject.pdb
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\obj\Debug\ComputerProject.sqlprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\obj\Debug\ComputerProject.dll
+C:\Users\102146016\Documents\GitHub\OOProgramChallenge3\ComputerProject\ComputerProject\obj\Debug\ComputerProject.pdb
