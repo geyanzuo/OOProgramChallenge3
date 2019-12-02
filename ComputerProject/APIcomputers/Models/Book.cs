@@ -14,6 +14,8 @@ namespace APIcomputers.Models
     
     public partial class Book
     {
+        
+
         public int ISBN { get; set; }
         public string title { get; set; }
         public Nullable<int> publishedYear { get; set; }
@@ -22,5 +24,7 @@ namespace APIcomputers.Models
     
         public virtual Author Author1 { get; set; }
         public virtual Borrower Borrower1 { get; set; }
+
+       
     }
 }
